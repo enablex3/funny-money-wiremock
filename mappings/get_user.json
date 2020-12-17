@@ -7,9 +7,6 @@
         "status": 200,
         "headers": {
                     "Content-Type" : "application/json",
-                    "Access-Control-Allow-Origin" : "*",
-                    "Access-Control-Allow-Methods" : "*",
-                    "Access-Control-Allow-Headers": "Accept, Content-Type, Content-Encoding, Server, Transfer-Encoding",
                     "X-Content-Type-Options" : "nosniff",
                     "x-frame-options" : "DENY",
                     "x-xss-protection" : "1; mode=block"
@@ -20,13 +17,13 @@
             "email": "dummy_user@fm.com",
             "rank": "25",
             "currency": "USD",
-            "new-predictions": {
+            "newPredictions": {
                 "XRP": {"price": "1.00", "date": "01-23-2021", "type": "crypto"},
                 "BTC": {"price": "50244.00", "date": "02-12-2021", "type": "crypto"},
                 "APPLE": {"price": "450.00", "date": "03-10-2021", "type": "stock"},
                 "GOLD": {"price": "10000.00", "date": "05-10-2025", "type": "metals"}
             },
-            "past-predictions": {
+            "pastPredictions": {
                 "XRP": {"price": "0.75", "date": "12-23-2020", "type": "crypto"},
                 "BTC": {"price": "21244.00", "date": "12-12-2020", "type": "crypto"},
                 "APPLE": {"price": "320.00", "date": "10-10-2020", "type": "stock"},

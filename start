@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+java -jar wiremock-jre8-standalone-2.27.2.jar --enable-stub-cors
+
