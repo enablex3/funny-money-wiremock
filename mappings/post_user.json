@@ -1,10 +1,10 @@
 {
     "request": {
-        "method": "GET",
+        "method": "POST",
         "url": "/api/user/dummy_user@fm.com"
     },
     "response": {
-        "status": 200,
+        "status": 201,
         "headers": {
                     "Content-Type" : "application/json",
                     "Access-Control-Allow-Origin" : "*",
