@@ -15,9 +15,21 @@
             "id": "530d08ba-4028-11eb-b378-0242ac130002",
             "displayName": "dummy_user",
             "email": "dummy_user@fm.com",
-            "rank": "1",
+            "rank": "25",
             "currency": "USD",
-            "accuracy": "0"
+            "newPredictions": {
+                "XRP": {"price": "1.00", "date": "01-23-2021", "type": "crypto"},
+                "BTC": {"price": "50244.00", "date": "02-12-2021", "type": "crypto"},
+                "APPLE": {"price": "450.00", "date": "03-10-2021", "type": "stock"},
+                "GOLD": {"price": "10000.00", "date": "05-10-2025", "type": "metals"}
+            },
+            "pastPredictions": {
+                "XRP": {"price": "0.75", "date": "12-23-2020", "type": "crypto"},
+                "BTC": {"price": "21244.00", "date": "12-12-2020", "type": "crypto"},
+                "APPLE": {"price": "320.00", "date": "10-10-2020", "type": "stock"},
+                "GOLD": {"price": "1800.00", "date": "11-10-2020", "type": "metals"}
+            },
+            "accuracy": "0.68"
         }
     }
 }
