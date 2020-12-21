@@ -12,6 +12,7 @@ The purpose of the wiremock server is to provide a way for developers to mock th
 2. Download java for your operating system. At least JRE8. Download can be found <a href="https://www.oracle.com/java/technologies/javase-jre8-downloads.html">here</a>.
 3. To execute the server, in a terminal or command prompt, navigate to this repo's root directory and type `java -jar wiremock-jre8-standalone-2.27.2.jar`
 4. Check to make sure mappings have loaded by going into your browser and entering `http://localhost:8080/__admin/`
+5. You can change the IP that wiremock binds to with the `--bind-address1` switch.
 ---
 
 ## Configuration
