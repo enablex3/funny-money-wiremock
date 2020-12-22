@@ -1,0 +1,281 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/api/news"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+                    "Content-Type" : "application/json",
+                    "X-Content-Type-Options" : "nosniff",
+                    "x-frame-options" : "DENY",
+                    "x-xss-protection" : "1; mode=block"
+                },
+        "jsonBody": {
+            "status": "ok",
+            "totalResults": 69732,
+            "articles": [
+              {
+                "source": {
+                  "id": "techcrunch",
+                  "name": "TechCrunch"
+                },
+                "author": "Jonathan Shieber",
+                "title": "BlackBerry shares rocket upwards on AWS deal to integrate sensor data in vehicles",
+                "description": "BlackBerry shares shot up in early trading on news that the company will partner with Amazon Web Services to jointly develop and market its vehicle data integration and monitoring platform, IVY. BlackBerry stock was up 35% or $2.11 at the opening bell on the …",
+                "url": "http://techcrunch.com/2020/12/01/blackberry-shares-rocket-upwards-aws-deal-to-integrate-sensor-data-in-vehicles/",
+                "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/12/AWSandBlackberry.jpg?w=726",
+                "publishedAt": "2020-12-01T15:09:22Z",
+                "content": "BlackBerry shares shot up in early trading on news that the company will partner with Amazon Web Services to jointly develop and market its vehicle data integration and monitoring platform, IVY.\r\nBla… [+2903 chars]"
+              },
+              {
+                "source": {
+                  "id": "techcrunch",
+                  "name": "TechCrunch"
+                },
+                "author": "Jonathan Shieber",
+                "title": "Stitch Fix shares rise nearly 50% in early trading after yesterday’s earnings beat",
+                "description": "Investors are buying into the shares of publicly traded Stitch Fix, the personal styling online clothes store, after it reported much better-than-expected earnings yesterday. Shares of the company’s stock were up $16.86, or 47.05%, in early trading on the Nas…",
+                "url": "http://techcrunch.com/2020/12/08/stitch-fix-shares-rise-nearly-50-in-early-trading-after-yesterdays-earnings-beat/",
+                "urlToImage": "https://techcrunch.com/wp-content/uploads/2017/10/gettyimages-686055810.jpg?w=600",
+                "publishedAt": "2020-12-08T14:49:06Z",
+                "content": "Investors are buying into the shares of publicly traded Stitch Fix, the personal styling online clothes store, after it reported much better-than-expected earnings yesterday.\r\nShares of the company’s… [+1624 chars]"
+              },
+              {
+                "source": {
+                  "id": "techcrunch",
+                  "name": "TechCrunch"
+                },
+                "author": "Eric Eldon",
+                "title": "Investors double down on tech stocks in massive DoorDash, Airbnb, C3.ai IPOs",
+                "description": "Editor’s note: Get this free weekly recap of TechCrunch news that any startup can use by email every Saturday morning (7 a.m. PT). Subscribe here. Maybe it is a stock market bubble, or a tech-stock bubble at least. And maybe DoorDash, Airbnb and C3.ai and the…",
+                "url": "http://techcrunch.com/2020/12/12/investors-double-down-on-tech-stocks-in-massive-doordash-airbnb-ipos/",
+                "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1027412766.jpg?w=600",
+                "publishedAt": "2020-12-12T19:00:53Z",
+                "content": "Editors note: Get this free weekly recap of TechCrunch news that any startup can use by email every Saturday morning (7 a.m. PT). Subscribe here.\r\nMaybe it is a stock market bubble, or a tech-stock b… [+10358 chars]"
+              },
+              {
+                "source": {
+                  "id": null,
+                  "name": "Gizmodo.com"
+                },
+                "author": "Sam Rutherford",
+                "title": "Slack Stock Soars Following Rumor of Salesforce Acquisition",
+                "description": "Even with the expansion of corporate communication suites like Microsoft 365 and Google Workspace (formerly known as G Suite), Slack remains one of the most popular enterprise communication tools. And despite a cursed collab with Cole Haan, Slack stock soared…",
+                "url": "https://gizmodo.com/slack-stock-soars-following-rumor-of-salesforce-acquisi-1845756910",
+                "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/jv8tonwdbab69meodwvw.jpg",
+                "publishedAt": "2020-11-25T20:00:00Z",
+                "content": "Even with the expansion of corporate communication suites like Microsoft 365 and Google Workspace (formerly known as G Suite), Slack remains one of the most popular enterprise communication tools. An… [+1916 chars]"
+              },
+              {
+                "source": {
+                  "id": null,
+                  "name": "Gizmodo.com"
+                },
+                "author": "Rhett Jones",
+                "title": "SEC Proposal Seeks Ability to Pay Gig Workers In Stock",
+                "description": "In the aftermath of Californian’s disastrous decision to avoid classifying gig workers as employees, the Securities and Exchange Commission is proposing a rule change that would allow businesses focused on the gig economy to compensate workers with equity. Re…",
+                "url": "https://gizmodo.com/sec-proposal-seeks-ability-to-pay-gig-workers-in-stock-1845755030",
+                "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/qbrzgrtmrpr0kxu8uxcg.jpg",
+                "publishedAt": "2020-11-25T18:00:00Z",
+                "content": "In the aftermath of Californians disastrous decision to avoid classifying gig workers as employees, the Securities and Exchange Commission is proposing a rule change that would allow businesses focus… [+3599 chars]"
+              },
+              {
+                "source": {
+                  "id": "techcrunch",
+                  "name": "TechCrunch"
+                },
+                "author": "Kirsten Korosec",
+                "title": "Tesla files to sell $5B in stock while its shares are richly valued",
+                "description": "Tesla is striking while its share price — and ballooning market cap — is hot, filing today to sell $5 billion in shares after investors bid its equity to record levels. The newly announced dilutive fundraising event is having a muted impact on its value, whic…",
+                "url": "http://techcrunch.com/2020/12/08/tesla-files-to-sell-5b-in-stock-while-its-shares-are-richly-valued/",
+                "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/09/tesla-glitch4.jpg?w=712",
+                "publishedAt": "2020-12-08T14:39:11Z",
+                "content": "Tesla is striking while its share price and ballooning market cap is hot, filing today to sell $5 billion in shares after investors bid its equity to record levels.\r\nThe newly announced dilutive fund… [+1925 chars]"
+              },
+              {
+                "source": {
+                  "id": "cnn",
+                  "name": "CNN"
+                },
+                "author": "Clare Duffy, CNN Business",
+                "title": "Slack stock spikes on reports of Salesforce deal",
+                "description": "Slack shares shot up as much as 28% Wednesday, despite being halted twice for volatility, following a report that Salesforce has been in talks to acquire the workplace messaging app. Salesforce shares were down more than 4% on the news.",
+                "url": "https://www.cnn.com/2020/11/25/tech/slack-stock-salesforce-acquisition-rumors/index.html",
+                "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200604173001-03-slack-app-super-tease.jpg",
+                "publishedAt": "2020-11-25T18:14:22Z",
+                "content": null
+              },
+              {
+                "source": {
+                  "id": "cnn",
+                  "name": "CNN"
+                },
+                "author": null,
+                "title": "NYT: Justice Department examined Sen. Perdue's stock trades",
+                "description": "The Justice Department opened a probe into Georgia Sen. David Perdue's stock sales for possible insider trading earlier this year but declined to pursue charges, according to The New York Times.",
+                "url": "https://www.cnn.com/videos/politics/2020/12/01/justice-department-probed-ga-sen-david-perdue-stock-nyt-lah-pkg-ac360-vpx.cnn",
+                "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201021150928-15a-david-perdue-centered-super-tease.jpg",
+                "publishedAt": "2020-12-01T02:45:20Z",
+                "content": null
+              },
+              {
+                "source": {
+                  "id": "cnn",
+                  "name": "CNN"
+                },
+                "author": null,
+                "title": "Watch: Airbnb founder stunned on live TV by stock price",
+                "description": "Airbnb shares began trading at $146 per share, more than doubling from its IPO price. See CEO Brian Chesky's reaction to the news.",
+                "url": "https://www.cnn.com/videos/business/2020/12/10/airbnb-ipo-chesky-gr-orig.cnn",
+                "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201110113208-02-airbnb-ceo-brian-chesky-file-super-tease.jpg",
+                "publishedAt": "2020-12-10T23:08:26Z",
+                "content": null
+              },
+              {
+                "source": {
+                  "id": "bbc-news",
+                  "name": "BBC News"
+                },
+                "author": "https://www.facebook.com/bbcnews",
+                "title": "Bitcoin hits all-time high rising above $20,000",
+                "description": "The virtual currency has gained more than 170% this year amid stock market turmoil during the pandemic.",
+                "url": "https://www.bbc.co.uk/news/business-55343657",
+                "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17FE0/production/_116127289_bitcoin2.jpg",
+                "publishedAt": "2020-12-17T03:37:28Z",
+                "content": "image copyrightGetty Images\r\nBitcoin has hit a new all-time high breaking through $20,000 (£14,800).\r\nThe volatile virtual currency has gained more than 170% this year amid stock market turmoil.\r\nOn … [+1999 chars]"
+              },
+              {
+                "source": {
+                  "id": "cnn",
+                  "name": "CNN"
+                },
+                "author": null,
+                "title": "Hear Smerconish's theory behind Trump's 64-second briefing",
+                "description": "CNN's Michael Smerconish discusses President Donald Trump's abnormal 64-second briefing in which he spoke about a stock market milestone.",
+                "url": "https://www.cnn.com/videos/politics/2020/11/25/trump-64-second-briefing-stock-market-smerconish-sot-ebof-vpx.cnn",
+                "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/201125105800-trump-smerconish-split-vpx-super-tease.jpg",
+                "publishedAt": "2020-11-25T20:09:07Z",
+                "content": null
+              },
+              {
+                "source": {
+                  "id": "bbc-news",
+                  "name": "BBC News"
+                },
+                "author": "https://www.facebook.com/bbcnews",
+                "title": "Coronavirus lockdown sees share of women on India's stock market rise",
+                "description": "With more time and flexibility, thousands of women are trading in the stock market for the first time.",
+                "url": "https://www.bbc.co.uk/news/world-asia-india-54873285",
+                "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BE06/production/_115664684_gettyimages-1229764732.jpg",
+                "publishedAt": "2020-11-28T00:42:59Z",
+                "content": "image copyrightGetty Images\r\nMore and more Indian women have turned to the stock market during the pandemic to bolster their savings, reports the BBC's Nidhi Rai in Mumbai. \r\nSakina Gandhi has found … [+4456 chars]"
+              },
+              {
+                "source": {
+                  "id": "the-verge",
+                  "name": "The Verge"
+                },
+                "author": "Russell Brandom",
+                "title": "Biden coronavirus appointee has cut ties with Facebook, transition team says",
+                "description": "Jeffrey Zients served on Facebook’s board of directors until earlier this year, but the Biden transition team says he has sold all Facebook stock and has no lingering conflicts to prevent him from serving as President-elect Joe Biden’s coronavirus czar.",
+                "url": "https://www.theverge.com/2020/12/4/22152631/jeffrey-zients-biden-white-house-facebook-board-member-transition",
+                "urlToImage": "https://cdn.vox-cdn.com/thumbor/U_MtJxncWNk22rBwDZpECILi7EM=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22144667/166333903.jpg",
+                "publishedAt": "2020-12-04T17:07:33Z",
+                "content": "Jeffrey Zients served on Facebooks board of directors until May 2020\r\nPhoto by T.J. Kirkpatrick / Getty Images\r\nPresident-elect Joe Bidens incoming COVID czar, Jeffrey Zients, is facing new scrutiny … [+2663 chars]"
+              },
+              {
+                "source": {
+                  "id": "the-verge",
+                  "name": "The Verge"
+                },
+                "author": "Bijan Stephen",
+                "title": "Snapchat is releasing Bitmoji Paint, a massively multiplayer online painting game",
+                "description": "Bitmoji Paint places players on a gigantic, pixelated grid, and lets them paint those squares as a shared canvas. Users can also interact with other players around the world using stock emotes, and there’s a VOIP function so you can talk to your friends while…",
+                "url": "https://www.theverge.com/2020/12/14/22170223/snapchat-bitmoji-paint-game-party-release-talk-friends",
+                "urlToImage": "https://cdn.vox-cdn.com/thumbor/ttHEQk1TcS__36gAS4q0TiRwx6A=/0x67:1253x723/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22163664/Bitmoji_Paint_Press_Asset.png",
+                "publishedAt": "2020-12-14T13:00:00Z",
+                "content": "Image: Snap\r\n\n \n\n Today, Snapchat is getting a new original game called Bitmoji Paint. As the name suggests, the game involves Bitmoji — those cutely grotesque customizable avatars — and painting. It… [+2242 chars]"
+              },
+              {
+                "source": {
+                  "id": null,
+                  "name": "New York Times"
+                },
+                "author": "Victoria Shannon and Judith Levitt",
+                "title": "Online Shopping, Virus in Winter, Stock Market: Your Monday Evening Briefing",
+                "description": "Here’s what you need to know at the end of the day.",
+                "url": "https://www.nytimes.com/2020/11/30/briefing/online-shopping-virus-in-winter-stock-market.html",
+                "urlToImage": "https://static01.nyt.com/images/2020/11/30/multimedia/30ecommerce-eveningbriefing-promo/30ecommerce-eveningbriefing-facebookJumbo.jpg",
+                "publishedAt": "2020-11-30T22:43:43Z",
+                "content": "4. U.S. markets ended November with large gains. \r\nEven with a small decline today, the S&amp;P 500 jumped by 10.8 percent in November, its best monthly showing since April and the fourth-best month … [+535 chars]"
+              },
+              {
+                "source": {
+                  "id": null,
+                  "name": "Gizmodo.com"
+                },
+                "author": "Shoshana Wodinsky",
+                "title": "Investors Sold an Awful Lot of SolarWinds Stock Before Its Hack Was Disclosed",
+                "description": "In a new wrinkle in the still-unfolding SolarWinds saga, it seems that some of the company’s top investors sold off close to a collective $280 million dollars in stock just days before the news of its role in a far-reaching federal cyberattack became public. …",
+                "url": "https://gizmodo.com/investors-sold-an-awful-lot-of-solarwinds-stock-before-1845894072",
+                "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/dbif4ngso4moxrunbckb.jpg",
+                "publishedAt": "2020-12-16T19:30:00Z",
+                "content": "In a new wrinkle in the still-unfolding SolarWinds saga, it seems that some of the companys top investors sold off close to a collective $280 million dollars in stock just days before the news of its… [+3279 chars]"
+              },
+              {
+                "source": {
+                  "id": "techcrunch",
+                  "name": "TechCrunch"
+                },
+                "author": "Kirsten Korosec",
+                "title": "Tesla is now worth half a trillion dollars",
+                "description": "Surging Tesla shares have pushed the company’s market capitalization to more than $515 billion, a fivefold increase since the start of the year. The traditionally volatile stock has continued to experience price swings. But since reaching a low for the year i…",
+                "url": "http://techcrunch.com/2020/11/24/tesla-is-now-worth-half-a-trillion-dollars/",
+                "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1236085488.jpg?w=600",
+                "publishedAt": "2020-11-24T16:23:59Z",
+                "content": "Surging Tesla shares have pushed the company’s market capitalization to more than $515 billion, a fivefold increase since the start of the year.\r\nThe traditionally volatile stock has continued to exp… [+1592 chars]"
+              },
+              {
+                "source": {
+                  "id": "techcrunch",
+                  "name": "TechCrunch"
+                },
+                "author": "Kirsten Korosec",
+                "title": "EV bus and truck maker The Lion Electric to take SPAC route to public markets",
+                "description": "Canadian electric truck and bus manufacturer The Lion Electric Company said Monday it plans to become a publicly traded company via a merger with special-purpose acquisition company Northern Genesis Acquisition Corp. The combined company, which will be listed…",
+                "url": "http://techcrunch.com/2020/11/30/ev-bus-and-truck-maker-the-lion-electric-to-take-spac-route-to-public-markets/",
+                "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/The_Lion_Electric_Co__Lion_Electric_to_Deliver_10_All_Electric_T.jpg?w=711",
+                "publishedAt": "2020-11-30T23:24:19Z",
+                "content": "Canadian electric truck and bus manufacturer The Lion Electric Company said Monday it plans to become a publicly traded company via a merger with special-purpose acquisition company Northern Genesis … [+2053 chars]"
+              },
+              {
+                "source": {
+                  "id": "techcrunch",
+                  "name": "TechCrunch"
+                },
+                "author": "Zack Whittaker",
+                "title": "Ivanti has acquired security firms MobileIron and Pulse Secure",
+                "description": "IT security software company Ivanti has acquired two security companies: enterprise mobile security firm MobileIron, and corporate virtual network provider Pulse Secure. In a statement on Tuesday, Ivanti said it bought MobileIron for $872 million in stock, wi…",
+                "url": "http://techcrunch.com/2020/12/01/ivanti-has-acquired-security-firms-mobileiron-and-pulse-secure/",
+                "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/12/ivanti-acquisitions.jpg?w=600",
+                "publishedAt": "2020-12-01T20:23:21Z",
+                "content": "IT security software company Ivanti has acquired two security companies: enterprise mobile security firm MobileIron, and corporate virtual network provider Pulse Secure.\r\nIn a statement on Tuesday, I… [+1592 chars]"
+              },
+              {
+                "source": {
+                  "id": "techcrunch",
+                  "name": "TechCrunch"
+                },
+                "author": "Anthony Ha",
+                "title": "Lightspeed acquires restaurant software company Upserve for $430M",
+                "description": "Lightspeed POS just announced the acquisition of Upserve, expanding Lightspeed’s presence in the restaurant industry. The company already offers cloud-based point-of-sale software for restaurants and other businesses. It went public in Canada last year before…",
+                "url": "http://techcrunch.com/2020/12/01/lightspeed-acquires-upserve/",
+                "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1203037895.jpg?w=565",
+                "publishedAt": "2020-12-01T22:25:11Z",
+                "content": "Lightspeed POS just announced the acquisition of Upserve, expanding Lightspeed’s presence in the restaurant industry.\r\nThe company already offers cloud-based point-of-sale software for restaurants an… [+1660 chars]"
+              }
+            ]
+          }
+    }
+}
