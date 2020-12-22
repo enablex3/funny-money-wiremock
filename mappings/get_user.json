@@ -15,6 +15,7 @@
             "id": "530d08ba-4028-11eb-b378-0242ac130002",
             "displayName": "dummy_user",
             "email": "dummy_user@fm.com",
+            "fullName": "Daniel Lugo",
             "rank": "25",
             "currency": "USD",
             "newPredictions": {
