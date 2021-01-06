@@ -1,0 +1,21 @@
+{
+    "request": {
+        "method": "POST",
+        "url": "/api/user/prediction"
+    },
+    "response": {
+        "status": 201,
+        "headers": {
+                    "Content-Type" : "application/json",
+                    "X-Content-Type-Options" : "nosniff",
+                    "x-frame-options" : "DENY",
+                    "x-xss-protection" : "1; mode=block"
+                },
+        "jsonBody": {
+            "id": "530d08ba-4028-11eb-b378-0242ac130002",
+            "nameOrSymbol": "AMZN",
+            "date": "Tue Jul 20 2021 20:01:00 GMT-0500 (Eastern Standard Time)",
+            "price": "3500.00"
+        }
+    }
+}
