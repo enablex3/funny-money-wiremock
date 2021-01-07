@@ -17,6 +17,7 @@
             "email": "dummy_user@fm.com",
             "rank": "1",
             "currency": "USD",
+            "profilePic": "none",
             "newPredictions": {
             },
             "pastPredictions": {
