@@ -1,0 +1,39 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/api/user/influencer@fm.com"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+                    "Content-Type" : "application/json",
+                    "X-Content-Type-Options" : "nosniff",
+                    "x-frame-options" : "DENY",
+                    "x-xss-protection" : "1; mode=block"
+                },
+        "jsonBody": {
+            "id": "530d08ba-4028-11eb-b378-0242ac130002",
+            "displayName": "iAmRanked",
+            "email": "influencer@fm.com",
+            "fullName": "Steve Rogers",
+            "rank": "31",
+            "currency": "USD",
+            "profilePic": "https://img5.goodfon.com/original/1920x1080/1/3c/bitcoin-btc-coin-fon-black-chiornyi.jpg",
+            "newPredictions": {
+                "BTC": {"price": "50244.00", "date": "02-12-2021", "type": "crypto"},
+                "APPLE": {"price": "450.00", "date": "03-10-2021", "type": "stock"},
+                "GOLD": {"price": "10000.00", "date": "05-10-2025", "type": "metals"},
+                "EWT": {"price": "12.00", "date": "01-01-2021", "type": "crypto"},
+                "GSX": {"price": "1.00", "date": "06-11-2021", "type": "crypto"}
+            },
+            "pastPredictions": {
+                "BTC": {"price": "21244.00", "date": "12-12-2020", "type": "crypto"},
+                "APPLE": {"price": "320.00", "date": "10-10-2020", "type": "stock"},
+                "GOLD": {"price": "1800.00", "date": "11-10-2020", "type": "metals"},
+                "AIRBNB": {"price": "45.00", "date": "03-10-2020", "type": "stock"},
+                "SILVER": {"price": "25.00", "date": "05-10-2020", "type": "metals"}
+            },
+            "accuracy": "0.82"
+        }
+    }
+}
