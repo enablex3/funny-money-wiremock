@@ -38,7 +38,8 @@
                 "AIRBNB": {"price": "45.00", "date": "03-10-2020", "type": "stock"},
                 "SILVER": {"price": "25.00", "date": "05-10-2020", "type": "metals"}
             },
-            "accuracy": "0.68"
+            "accuracy": "0.68",
+            "profilePic": "none"
         }
     }
 }

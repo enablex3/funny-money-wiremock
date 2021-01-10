@@ -14,7 +14,8 @@
         "jsonBody": {
             "id": "530d08ba-4028-11eb-b378-0242ac130002",
             "nameOrSymbol": "AMZN",
-            "date": "Tue Jul 20 2021 20:01:00 GMT-0500 (Eastern Standard Time)",
+            "type": "stock",
+            "date": "11-20-2021",
             "price": "3500.00"
         }
     }

@@ -21,7 +21,8 @@
             },
             "pastPredictions": {
             },
-            "accuracy": "0.00"
+            "accuracy": "0.00",
+            "profilePic": "none"
         }
     }
 }
