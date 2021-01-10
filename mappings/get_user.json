@@ -24,7 +24,7 @@
                 "BTC": {"price": "50244.00", "date": "02-12-2021", "type": "crypto"},
                 "APPLE": {"price": "450.00", "date": "03-10-2021", "type": "stock"},
                 "GOLD": {"price": "10000.00", "date": "05-10-2025", "type": "metals"},
-                "EWT": {"price": "12.00", "date": "01-01-2021", "type": "crypto"},
+                "EWT": {"price": "15.00", "date": "10-01-2021", "type": "crypto"},
                 "GSX": {"price": "1.00", "date": "06-11-2021", "type": "crypto"},
                 "AIRBNB": {"price": "230.00", "date": "03-10-2021", "type": "stock"},
                 "SILVER": {"price": "100.00", "date": "05-10-2025", "type": "metals"}
@@ -34,7 +34,7 @@
                 "BTC": {"price": "21244.00", "date": "12-12-2020", "type": "crypto"},
                 "APPLE": {"price": "320.00", "date": "10-10-2020", "type": "stock"},
                 "GOLD": {"price": "1800.00", "date": "11-10-2020", "type": "metals"},
-                "EWT": {"price": "6.00", "date": "01-23-2020", "type": "crypto"},
+                "EWT": {"price": "12.00", "date": "01-01-2021", "type": "crypto"},
                 "GSX": {"price": "0.10", "date": "02-12-2020", "type": "crypto"},
                 "AIRBNB": {"price": "45.00", "date": "03-10-2020", "type": "stock"},
                 "SILVER": {"price": "25.00", "date": "05-10-2020", "type": "metals"}
