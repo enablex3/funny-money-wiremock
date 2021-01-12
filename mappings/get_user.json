@@ -18,7 +18,20 @@
             "fullName": "Daniel Lugo",
             "rank": "25",
             "currency": "USD",
-            "profilePic": "https://www.triarcsystems.com/wp-content/uploads/2019/01/DSC_0851-600x397.jpg",
+            "profilePic": "none",
+            "following": {
+                "iAmRanked": {
+                    "id": "530d08ba-4028-11eb-b378-0242ac130002",
+                    "displayName": "iAmRanked",
+                    "email": "influencer@fm.com",
+                    "fullName": "Steve Rogers",
+                    "rank": "31",
+                    "currency": "USD",
+                    "profilePic": "https://img5.goodfon.com/original/1920x1080/1/3c/bitcoin-btc-coin-fon-black-chiornyi.jpg",
+                    "accuracy": "0.82"
+                }
+            },
+            "followers": {},
             "newPredictions": {
                 "XRP": {"price": "1.00", "date": "01-23-2021", "type": "crypto"},
                 "BTC": {"price": "50244.00", "date": "02-12-2021", "type": "crypto"},
@@ -39,8 +52,7 @@
                 "AIRBNB": {"price": "45.00", "date": "03-10-2020", "type": "stock"},
                 "SILVER": {"price": "25.00", "date": "05-10-2020", "type": "metals"}
             },
-            "accuracy": "0.68",
-            "profilePic": "none"
+            "accuracy": "0.68"
         }
     }
 }

@@ -1,0 +1,36 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/api/user/community/dummy_user@fm.com"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+                    "Content-Type" : "application/json",
+                    "X-Content-Type-Options" : "nosniff",
+                    "x-frame-options" : "DENY",
+                    "x-xss-protection" : "1; mode=block"
+                },
+        "jsonBody": {
+            "communityPosts": {
+                "IAMRANKED": { 
+                    "subscribed": true,
+                    "BTC": {"price": "50244.00", "date": "02-12-2021", "type": "crypto", "dateMade": "05-15-2020"},
+                    "APPLE": {"price": "450.00", "date": "03-10-2021", "type": "stock", "dateMade": "07-02-2020"},
+                    "GSX": {"price": "1.00", "date": "06-11-2021", "type": "crypto", "dateMade": "08-30-2020"}
+                 }
+                
+            },
+            "userPosts": {
+                "XRP": {"price": "0.75", "date": "12-23-2020", "type": "crypto"},
+                "BTC": {"price": "21244.00", "date": "12-12-2020", "type": "crypto"},
+                "APPLE": {"price": "320.00", "date": "10-10-2020", "type": "stock"},
+                "GOLD": {"price": "1800.00", "date": "11-10-2020", "type": "metals"},
+                "EWT": {"price": "12.00", "date": "01-01-2021", "type": "crypto"},
+                "GSX": {"price": "0.10", "date": "02-12-2020", "type": "crypto"},
+                "AIRBNB": {"price": "45.00", "date": "03-10-2020", "type": "stock"},
+                "SILVER": {"price": "25.00", "date": "05-10-2020", "type": "metals"}
+            }
+        }
+    }
+}
