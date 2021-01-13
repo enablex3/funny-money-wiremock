@@ -31,7 +31,7 @@
                     "accuracy": "0.82"
                 }
             },
-            "followers": {},
+            "followers": "none",
             "newPredictions": {
                 "XRP": {"price": "1.00", "date": "01-23-2021", "type": "crypto"},
                 "BTC": {"price": "50244.00", "date": "02-12-2021", "type": "crypto"},

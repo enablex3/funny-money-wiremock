@@ -1,7 +1,7 @@
 {
     "request": {
         "method": "GET",
-        "url": "/api/user/community/dummy_user@fm.com"
+        "url": "/api/user/community/530d08ba-4028-11eb-b378-0242ac130002"
     },
     "response": {
         "status": 200,
@@ -12,24 +12,39 @@
                     "x-xss-protection" : "1; mode=block"
                 },
         "jsonBody": {
-            "communityPosts": {
-                "IAMRANKED": { 
+            "posts": {
+                "iAmRanked": { 
                     "subscribed": true,
-                    "BTC": {"price": "50244.00", "date": "02-12-2021", "type": "crypto", "dateMade": "05-15-2020"},
-                    "APPLE": {"price": "450.00", "date": "03-10-2021", "type": "stock", "dateMade": "07-02-2020"},
-                    "GSX": {"price": "1.00", "date": "06-11-2021", "type": "crypto", "dateMade": "08-30-2020"}
+                    "id": "979c654e-5508-11eb-ae93-0242ac130002",
+                    "profilePic": "https://img5.goodfon.com/original/1920x1080/1/3c/bitcoin-btc-coin-fon-black-chiornyi.jpg",
+                    "predictions": {
+                        "BTC": {"price": "50244.00", "date": "02-12-2021", "type": "crypto", "dateMade": "05-15-2020", 
+                            "comment": "We already have an awesome trend. To the moon!"},
+                        "APPLE": {"price": "450.00", "date": "03-10-2021", "type": "stock", "dateMade": "07-02-2020", 
+                            "comment": "Once the apple car is released. This will be true :)"},
+                        "GSX": {"price": "1.00", "date": "06-11-2021", "type": "crypto", "dateMade": "08-30-2020", 
+                            "comment": "GSX is the only gold-backed crypto on the market! They've acquired over $60 Billion more in assets since last year. I look at GSX as more of a savings than anything else."}
+                    }
+                 },
+                 "dummy_user": {
+                    "subscribed": false,
+                    "id": "530d08ba-4028-11eb-b378-0242ac130002",
+                    "profilePic": "none",
+                    "predictions": {
+                        "XRP": {"price": "0.75", "date": "12-23-2021", "type": "crypto", "dateMade": "05-20-2020", 
+                            "comment": "SEC lawsuit is almost won..."},
+                        "BTC": {"price": "21244.00", "date": "12-12-2021", "type": "crypto", "dateMade": "01-15-2020", 
+                            "comment": "We already have an awesome trend. To the moon!"},
+                        "APPLE": {"price": "320.00", "date": "10-10-2021", "type": "stock", "dateMade": "04-12-2020"},
+                        "GOLD": {"price": "1800.00", "date": "11-10-2021", "type": "metals", "dateMade": "10-30-2020"},
+                        "EWT": {"price": "12.00", "date": "01-01-2022", "type": "crypto", "dateMade": "12-01-2020", 
+                            "comment": "Energy will be the main focus come 2022 <3"},
+                        "GSX": {"price": "0.10", "date": "02-12-2021", "type": "crypto", "dateMade": "03-15-2020"},
+                        "AIRBNB": {"price": "45.00", "date": "03-10-2021", "type": "stock", "dateMade": "03-15-2020"},
+                        "SILVER": {"price": "60.00", "date": "05-10-2021", "type": "metals", "dateMade": "03-15-2020", 
+                            "comment": "To easy since the dollar is going down!!!"}
+                    }
                  }
-                
-            },
-            "userPosts": {
-                "XRP": {"price": "0.75", "date": "12-23-2020", "type": "crypto"},
-                "BTC": {"price": "21244.00", "date": "12-12-2020", "type": "crypto"},
-                "APPLE": {"price": "320.00", "date": "10-10-2020", "type": "stock"},
-                "GOLD": {"price": "1800.00", "date": "11-10-2020", "type": "metals"},
-                "EWT": {"price": "12.00", "date": "01-01-2021", "type": "crypto"},
-                "GSX": {"price": "0.10", "date": "02-12-2020", "type": "crypto"},
-                "AIRBNB": {"price": "45.00", "date": "03-10-2020", "type": "stock"},
-                "SILVER": {"price": "25.00", "date": "05-10-2020", "type": "metals"}
             }
         }
     }
