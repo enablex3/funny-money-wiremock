@@ -15,6 +15,8 @@
             "posts": {
                 "iAmRanked": { 
                     "subscribed": true,
+                    "rank": "31",
+                    "accuracy": "0.82",
                     "id": "979c654e-5508-11eb-ae93-0242ac130002",
                     "profilePic": "https://img5.goodfon.com/original/1920x1080/1/3c/bitcoin-btc-coin-fon-black-chiornyi.jpg",
                     "predictions": {
@@ -28,6 +30,8 @@
                  },
                  "dummy_user": {
                     "subscribed": false,
+                    "rank": "25",
+                    "accuracy": "0.68",
                     "id": "530d08ba-4028-11eb-b378-0242ac130002",
                     "profilePic": "none",
                     "predictions": {
