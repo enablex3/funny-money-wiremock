@@ -1,0 +1,35 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/api/user/stats/530d08ba-4028-11eb-b378-0242ac130002"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+                    "Content-Type" : "application/json",
+                    "X-Content-Type-Options" : "nosniff",
+                    "x-frame-options" : "DENY",
+                    "x-xss-protection" : "1; mode=block"
+                },
+        "jsonBody": {
+            "stats": {
+                "portfolio": {
+                    "XRP": 0.20,
+                    "BTC": 0.20,
+                    "GOLD": 0.30,
+                    "SILVER": 0.88,
+                    "APPLE": 0.54,
+                    "GSX": 0.89
+                },
+                "averages": {
+                    "XRP": 0.45,
+                    "BTC": 0.50,
+                    "GOLD": 0.12,
+                    "SILVER": 0.54,
+                    "APPLE": 0.89,
+                    "GSX": 0.66
+                }
+            }
+        }
+    }
+}
