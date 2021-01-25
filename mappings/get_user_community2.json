@@ -1,0 +1,106 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/api/user/community/979c654e-5508-11eb-ae93-0242ac130002"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+                    "Content-Type" : "application/json",
+                    "X-Content-Type-Options" : "nosniff",
+                    "x-frame-options" : "DENY",
+                    "x-xss-protection" : "1; mode=block"
+                },
+        "jsonBody": {
+            "posts": {
+                "iAmRanked": { 
+                    "subscribed": true,
+                    "rank": "31",
+                    "accuracy": "0.82",
+                    "id": "979c654e-5508-11eb-ae93-0242ac130002",
+                    "profilePic": "https://img5.goodfon.com/original/1920x1080/1/3c/bitcoin-btc-coin-fon-black-chiornyi.jpg",
+                    "predictions": {
+                        "BTC": {"price": "50244.00", "date": "02-12-2021", "type": "crypto", "dateMade": "05-15-2020", 
+                            "comment": "We already have an awesome trend. To the moon!",
+                            "comments" : { "1": 
+                                            {
+                                                "displayName": "dummy_user",
+                                                "text": "No doubt man!",
+                                                "dateMade": "01-01-2021"
+                                            },
+                                            "2": 
+                                            {
+                                                "displayName": "merandom",
+                                                "text": "You're living in lala land...This should be a really long comments so let's make sure it doesn't absolutely destroy the UI <3",
+                                                "dateMade": "01-01-2021"
+                                            },
+                                            "3": 
+                                            {
+                                                "displayName": "papiChulo",
+                                                "text": "I can see the light, I hope you're right :)",
+                                                "dateMade": "01-02-2021"
+                                            },
+                                            "4": 
+                                            {
+                                                "displayName": "merandom",
+                                                "text": "On 2nd thought bro, this seems pretty legit.",
+                                                "dateMade": "01-05-2021"
+                                            }
+                                        }
+                        },
+                        "APPLE": {"price": "450.00", "date": "03-10-2021", "type": "stock", "dateMade": "07-02-2020", 
+                            "comment": "Once the apple car is released. This will be true :)"},
+                        "GSX": {"price": "1.00", "date": "06-11-2021", "type": "crypto", "dateMade": "08-30-2020", 
+                            "comment": "GSX is the only gold-backed crypto on the market! They've acquired over $60 Billion more in assets since last year. I look at GSX as more of a savings than anything else."}
+                    }
+                 },
+                 "dummy_user": {
+                    "subscribed": false,
+                    "rank": "25",
+                    "accuracy": "0.68",
+                    "id": "530d08ba-4028-11eb-b378-0242ac130002",
+                    "profilePic": "none",
+                    "predictions": {
+                        "XRP": {"price": "0.75", "date": "12-23-2021", "type": "crypto", "dateMade": "05-20-2020", 
+                            "comment": "SEC lawsuit is almost won..."},
+                        "BTC": {"price": "21244.00", "date": "12-12-2021", "type": "crypto", "dateMade": "01-15-2020", 
+                            "comment": "We already have an awesome trend. To the moon!"},
+                        "APPLE": {"price": "320.00", "date": "10-10-2021", "type": "stock", "dateMade": "04-12-2020",
+                                    "comments" : { "1": 
+                                            {
+                                                "displayName": "dummy_user",
+                                                "text": "No doubt man!",
+                                                "dateMade": "01-01-2021"
+                                            },
+                                            "2": 
+                                            {
+                                                "displayName": "merandom",
+                                                "text": "You're living in lala land...This should be a really long comments so let's make sure it doesn't absolutely destroy the UI <3",
+                                                "dateMade": "01-01-2021"
+                                            },
+                                            "3": 
+                                            {
+                                                "displayName": "papiChulo",
+                                                "text": "I can see the light, I hope you're right :)",
+                                                "dateMade": "01-02-2021"
+                                            },
+                                            "4": 
+                                            {
+                                                "displayName": "merandom",
+                                                "text": "On 2nd thought bro, this seems pretty legit.",
+                                                "dateMade": "01-05-2021"
+                                            }
+                                }},
+                        "GOLD": {"price": "1800.00", "date": "11-10-2021", "type": "metals", "dateMade": "10-30-2020"},
+                        "EWT": {"price": "12.00", "date": "01-01-2022", "type": "crypto", "dateMade": "12-01-2020", 
+                            "comment": "Energy will be the main focus come 2022 <3"},
+                        "GSX": {"price": "0.10", "date": "02-12-2021", "type": "crypto", "dateMade": "03-15-2020"},
+                        "AIRBNB": {"price": "45.00", "date": "03-10-2021", "type": "stock", "dateMade": "03-15-2020"},
+                        "SILVER": {"price": "60.00", "date": "05-10-2021", "type": "metals", "dateMade": "03-15-2020", 
+                            "comment": "To easy since the dollar is going down!!!"}
+                    }
+                 }
+            }
+        }
+    }
+}
